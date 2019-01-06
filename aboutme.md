@@ -1,8 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: > whoami
+subtitle: whoami
 ---
 
-Melbourne_AU\Hazel Kim
+Hazel Kim
 
+@Melbourne, Australia
+
+Malware Analysis
+Reverse Engineering
+Information Security
